@@ -1,0 +1,20 @@
+Firebase Authentication
+Khái niệm:
+ + Xác thực firebase cung cấp dịch vụ phụ trợ cho developers, SDK dễ sử dụng và thư viện UI được tạo sẵn để xác thực người dùng với
+ ứng dụng của bạn.
+
+Chức năng:
+ +Chức năng dùng để xác thực người dùng bằng Password, số điện thoại hoặc tài khoản Google, Facebook hay Twitter, v.v. 
+ Việc xác thực người dùng là một chức năng quan trọng trong phát triển ứng dụng.
+ + Firebase Analytics
+ + Firebase Hosting
+ + Firebase Cloud Messaging
+ + Firebase Authentication  là chức năng dùng để xác thực người dùng bằng Password, số điện thoại hoặc tài khoản Google, Facebook hay Twitter, v.v.
+ + Firebase Cloud Storage hỗ trợ việc quản lý, chia sẻ các content người dùng upload lên như ảnh, video; cũng như sử dụng những tài nguyên ấy cho ứng dụng của bạn.
+ + Firebase Remote Config giúp thực hiện việc thay đổi UI cũng như hoạt động của ứng dụng mà không cần phải update app đó.
+ + Firebase Test Lab được sử dụng để test ứng dụng trên nền tẳng cloud.
+ + Firebase Crashlytics là công cụ báo cáo các hoạt động bất thường (crash) phát sinh trên ứng dụng theo thời gian thực (real time).
+ + Firebase App Indexing là chức năng hiển thị content trong ứng dụng trong kết quả tìm kiếm Google.
+ + Firebase Dynamic Links  là chức năng phân chia trang đích một cách thích hợp tuỳ vào tình trạng người dùng.
+
+ Cách cài đặt: https://www.codehub.com.vn/Huong-Dan-Cai-Dat-Firebase-SDK-tren-Android

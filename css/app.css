@@ -1,0 +1,6 @@
+@import url("./input-register.css");
+@import url("./login-form.css");
+@import url("contain-app.css");
+*{
+    font-family: 'Open Sans', sans-serif;
+}
